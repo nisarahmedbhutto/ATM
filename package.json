@@ -1,0 +1,21 @@
+{
+  "name": "nab01n02-atm",
+  "version": "1.0.0",
+  "description": "this is a ATM base project",
+  "main": "atm.js",
+  "type": "module",
+  "bin": "atm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
